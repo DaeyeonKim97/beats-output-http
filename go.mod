@@ -3,7 +3,7 @@ module github.com/raboof/beats-output-http
 go 1.14
 
 require (
-	github.com/elastic/beats/v7 v7.10.1
+	github.com/elastic/beats/v8 v8.6.1
 )
 
 // needed because elastic wants these replacements, and https://github.com/golang/go/issues/30354#issuecomment-466479708
